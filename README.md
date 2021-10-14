@@ -27,12 +27,12 @@ I am a senior undergraduate student and an undergraduate researcher at the depar
 
 <!-- Stats -->
 <p align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh99100&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh99100&langs_count=5" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh99100&" alt="saurabhsingh99100" />
+ <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh99100&langs_count=5" />
+ 
+ <img height="250em" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh99100&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
+ <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh99100&" alt="saurabhsingh99100" />
 </p>
-
-
 
 <!-- Technology Stack -->
 
