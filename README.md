@@ -4,10 +4,10 @@
 
 <!-- Badges -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=saurabhsingh99100&label=Profile%20views&color=blue&style=flat" alt="saurabhsingh99100" />
-  <img src="https://badges.pufler.dev/repos/saurabhsingh99100?color=blue&style=flat" alt="saurabhsingh99100" />
-  <img src="https://badges.pufler.dev/gists/saurabhsingh99100?color=blue&style=flat" alt="saurabhsingh99100" />
-  <img src="https://badges.pufler.dev/commits/monthly/saurabhsingh99100?color=blue&style=flat" alt="saurabhsingh99100" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhsingh99100&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://github.com/saurabhsingh99100?tab=repositories"> <img src="https://badges.pufler.dev/repos/saurabhsingh99100?color=blue&style=flat" alt="Repositories" /> </a>
+  <a href="https://gist.github.com/saurabhsingh99100"><img src="https://badges.pufler.dev/gists/saurabhsingh99100?color=blue&style=flat" alt="Gists" /> </a>
+  <img src="https://badges.pufler.dev/commits/monthly/saurabhsingh99100?color=blue&style=flat" alt="Contributions in past month" />
 </p>
 
 <!-- Links -->
@@ -27,9 +27,9 @@ I am a senior undergraduate student and an undergraduate researcher at the depar
 
 <!-- Stats -->
 <p align="center">
- <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh99100&langs_count=5" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh99100&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
- <img height="250em" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh99100&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh99100&langs_count=5&layout=compact" />
  
  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh99100&" alt="saurabhsingh99100" />
 </p>
